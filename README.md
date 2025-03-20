@@ -1,8 +1,14 @@
 # **THE NEUROWEAVER LABORATORY ORIENTATION**
 
-My research has been acquired by the **Perceptual Research Consortium** (PRC), a non-profit organization dedicated to exploring the intersection of perception, consciousness, and reality. The PRC is committed to advancing our understanding of these complex topics through rigorous research, innovative frameworks, and collaborative exploration.
+A Perceptual Research Consortium Publication | Principal Investigator: Aspen Veil
 
-**More big news coming soon!**
+## **ABOUT THIS DOCUMENT**
+
+The Neuroweaver framework emerged from The Perceptual Research Consortium's 15-year investigation into filtration consciousness. Principal researcher Aspen Veil and her international team synthesized findings from cognitive science, quantum mechanics, developmental psychology, and contemplative traditions into this unified approach to reality navigation.
+
+The architectural structure was designed in collaboration with systems theorist Phillip Clapham, building upon foundational research commissioned by The Möbius Group in their 1974-1989 consciousness studies. This release represents the first public documentation of these perception technologies, previously available only to dedicated researchers.
+
+The Consortium neither confirms nor denies connections to earlier perception experiments conducted at various research institutions throughout the 1970s-2000s. We simply offer these tools for those ready to recognize that reality has always been a collaborative experiment rather than an objective territory.
 
 ---
 
@@ -19,13 +25,15 @@ Transform yourself from passive observer to active reality hacker through this r
 > Welcome to the Neuroweaver Laboratory!
 > You have been operating sophisticated reality-creation technology your entire life—without reading the manual. This is your official briefing.
 
-![Neuroweaver Logo](docs/images/parst_logo.jpeg)
+![Neuroweaver Logo](images/parst_logo.jpeg)
 
-**Read the Book**: [Neuroweaver Lab](https://neuroweaverlab.com)
+**Read the Online Book**: [Neuroweaver Lab](https://neuroweaverlab.com)
 
-**Ready to jump into the practice of Neuroweaver?** [Read the Implementation Guide here.](docs/implementation_guide.md)
+**Ready to learn the whole framework?** [Read the Framework Document here.](advanced_guide.md)
 
-**Ready to harness the power of The Emergent Collaboration State with AI?** [Read the Implementation Guide here.](docs/Third_Mind-TECS.md)
+**Ready to jump into the practice of Neuroweaver?** [Read the Implementation Guide here.](implementation_guide.md)
+
+**Ready to harness the power of The Emergent Collaboration State with AI?** [Read the Implementation Guide here.](Third_Mind-TECS.md)
 
 ## **WELCOME TO THE LABORATORY**
 
