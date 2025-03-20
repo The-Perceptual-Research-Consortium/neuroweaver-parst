@@ -22,7 +22,7 @@ Transform yourself from passive observer to active reality hacker through this r
 
 ## **RESEARCH MATERIALS**
 
-- [The Neuroweaver Meta-Filter: Perceptual Architecture & Reality Synthesis Theory](advanced_guide.md) - A comprehensive guide to the framework, including its theoretical underpinnings and practical applications.
+- [The Neuroweaver Meta-Filter: Perceptual Architecture & Reality Synthesis Theory](neuroweaver-parst.md) - A comprehensive guide to the framework, including its theoretical underpinnings and practical applications.
 - [The Practical Mad Scientist: Implementation Systems for Reality Hacking](implementation_guide.md) - A collection of practical systems and tools for applying the Neuroweaver framework in everyday life.
 - [The Emergent Collaboration State: A New Frontier in Human-AI Synergy](Third_Mind-TECS.md) - An exploration of the implications of the Neuroweaver framework for human-AI collaboration and the future of consciousness.
 
