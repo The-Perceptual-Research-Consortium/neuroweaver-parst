@@ -7,7 +7,7 @@ Developed by Phillip Clapham and Dr. Elara Quinn for The Perceptual Research Con
 **Confidential Working Document**
 *For Internal Operator Use Only*
 
-**NOTICE**: The following frameworks, principles, and protocols represent the current state of active research and application within the Perceptual Research Consortium (PRC). Developed in part under the supervision of our sponsors *The Möbius Group*, these materials embody the practical findings, first-principles engineering, and strategic mischief that define our daily reality-hacking operations.
+**NOTICE**: The following frameworks, principles, and protocols represent the current state of active research and application within the Perceptual Research Consortium (PRC). Developed in part under the supervision of our sponsors *TPR*, these materials embody the practical findings, first-principles engineering, and strategic mischief that define our daily reality-hacking operations.
 
 This document is subject to ongoing evolution and revision as field Operators, including [name_redacted] and [name_redacted], push the edges of consciousness research in real-time experiments. Treat it as the living, experimental lab notes of the PRC—not a finalized doctrine.
 
