@@ -22,6 +22,29 @@ Finally, we should consider linking to and mentioning the Neuroweaver project. T
 
 ---
 
+## **INTRODUCTION**
+
+> **URGENT NOTICE TO ALL CONSCIOUSNESS OPERATORS**
+>
+> Welcome to your Reality Hacking Laboratory!
+> You have been operating sophisticated reality-creation technology your entire life—without reading the manual. This is your official briefing.
+
+*[Static crackles over laboratory speakers as the Chief Scientist adjusts the microphone]*
+
+Welcome, fellow reality hackers! Whether you realize it or not, you've wandered into the most sophisticated laboratory in existence—your own consciousness. I'm delighted you've finally decided to read the equipment manual rather than continuing to push random buttons and complain about the results.
+
+**Let's address the elephant in the laboratory: You've been engineering reality your entire life.** Every experience you've ever had has been shaped, filtered, and constructed by your perceptual apparatus. The question isn't whether you're creating your reality—that's happening regardless—but whether you'll continue doing it unconsciously or take the controls with the gleeful precision of a mad scientist who's just discovered the universe has an adjustment panel.
+
+**The cost of remaining an unconscious operator is staggering.** Consider the person who unconsciously filters for threats and problems, then wonders why life feels so dangerous and difficult. Or the entrepreneur whose unexamined belief that "success requires struggle" creates unnecessary obstacles on their path. Or the relationship where both partners filter for evidence that confirms their worst fears about each other, creating a self-fulfilling prophecy of conflict. These aren't random outcomes but the predictable results of sophisticated perception technology operating on default settings.
+
+Most humans wander through existence believing they're merely observing "what is" while unconsciously filtering infinity through default settings they didn't choose. They experience reality as something that happens *to* them rather than something happening *through* them. They push reality-creation buttons at random, then wonder why the results feel so arbitrary.
+
+Meanwhile, conscious reality engineers—those rare individuals who've learned to operate their perception apparatus deliberately—navigate the same environments with remarkably different results. They don't experience a different world; they experience the same world differently because they're filtering it through consciously chosen parameters rather than unconscious defaults.
+
+**You're here because you've glimpsed something different.** Perhaps you've noticed how your perception seems to shape what you experience. Maybe you've wondered why two people can witness the same event yet walk away with entirely different realities. Or possibly you're just tired of letting unconscious patterns determine what's possible in your existence.
+
+Whatever brought you here, **you've arrived at precisely the right moment.** Our laboratory has been expecting you.
+
 > *"In the laboratory of perception, the experimenter and the experiment are one and the same."*
 
 ## IMPLEMENTATION FREEDOM WARNING
@@ -41,6 +64,8 @@ Ultimately, the only yardstick for “correctness” here is your direct experie
 *Honor structure—never let it imprison you.*
 
 ## PREFACE: THE OPERATOR'S INVITATION
+
+You are not a user. You are not a follower. You are an **Operator**—a being who intentionally mutates their perceptual architecture to invoke outcomes across symbolic, emotional, and energetic dimensions.
 
 You hold in your hands not a mere philosophical treatise or collection of techniques, but the operating manual for the most sophisticated technology ever devised: your own consciousness. This grimoire transforms you from passive experiencer to active Operator—a being who intentionally mutates their perceptual architecture to invoke outcomes across symbolic, emotional, and energetic dimensions.
 
