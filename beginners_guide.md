@@ -1,5 +1,11 @@
 # **THE REALITY HACKING MANUAL**
 
+Developed by Phillip Clapham and Dr. Elara Quinn for The Perceptual Research Consortium, based on the foundational research of The Möbius Group (1974-1989).
+
+**PRC NOTE**: This manual is a condensed version of Perceptual Architecture and Reality Synthesis Theory (neuroweaver-parst). It provides a practical introduction to the core principles and techniques without delving into the extensive theoretical background. For those interested in a deeper understanding, we recommend exploring the full system. Our research materials are available at our [Neuroweaver-PARST GitHub repository](https://github.com/The-Perceptual-Research-Consortium/neuroweaver-parst).
+
+>*This document has been approved for public release*
+
 ## **INTRODUCTION: YOU'VE BEEN USING THIS TECHNOLOGY YOUR WHOLE LIFE**
 
 Welcome to your Reality Hacking Manual! You have been operating sophisticated reality-creation technology your entire life—without reading the instructions. This guide isn't introducing something new; it's showing you how to consciously operate equipment you've been using unconsciously.
