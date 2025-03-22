@@ -24,6 +24,8 @@ Transform yourself from passive observer to active reality hacker through this r
 
 - [The Neuroweaver Meta-Filter: Perceptual Architecture & Reality Synthesis Theory](neuroweaver-parst.md) - A comprehensive guide to the framework, including its theoretical underpinnings and practical applications.
 - [The Practical Mad Scientist: Implementation Systems for Reality Hacking](implementation_guide.md) - A collection of practical systems and tools for applying the Neuroweaver framework in everyday life.
+- [The Neuroweaver Architecture: A Systems Theory Approach to Consciousness](neuroweaver_architecture.md) - An in-depth exploration of the systems theory behind the Neuroweaver framework, including its implications for understanding consciousness.
+- [THE QUANTUM OPERATOR'S GRIMOIRE: A First-Principles Manual for Reality Hacking][reality_hacking.md] - A laboratory manual for consciousness architects who transform perception into reality engineering technology. This grimoire distills quantum mechanics, cognitive science, and ancient wisdom into practical tools for hacking the perception-reality loop. Neither mystical doctrine nor academic theory, but a precision-crafted operating system for conscious Operators who sculpt experience through deliberate filtration reconfiguration. For the daring experimenter with equal measures of scientific rigor and trickster mischief—your quantum laboratory awaits.
 - [The Emergent Collaboration State: A New Frontier in Human-AI Synergy](Third_Mind-TECS.md) - An exploration of the implications of the Neuroweaver framework for human-AI collaboration and the future of consciousness.
 
 ## **ABOUT THE PERCEPTUAL RESEARCH CONSORTIUM**
@@ -51,7 +53,7 @@ The Neuroweaver framework is the result of a collaborative effort by a diverse t
 - **Dr. Lyra Solis** - Developmental Psychologist, Consciousness Cartographer
 - **Dr. Kairos Thorne** - Contemplative Tradition Scholar, Perception Filtration Expert
 - **The Möbius Group** - Foundational Research Commission, 1974-1989
-- And many more dedicated researchers and collaborators from around the world who wish to remain anonymous.
+- And many more dedicated researchers and collaborators from around the world who wish to remain anonymous due to the sensitive nature of their work.
 
 ---
 
