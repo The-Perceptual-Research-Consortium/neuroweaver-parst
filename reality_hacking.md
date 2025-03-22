@@ -9,9 +9,16 @@ Developed by Phillip Clapham and Dr. Elara Quinn for The Perceptual Research Con
 
 **NOTICE**: The following frameworks, principles, and protocols represent the current state of active research and application within the Perceptual Research Consortium (PRC). Developed in part under the supervision of our sponsors *The Möbius Group*, these materials embody the practical findings, first-principles engineering, and strategic mischief that define our daily reality-hacking operations.
 
-This document is subject to ongoing evolution and revision as field operators and researchers, including [name_redacted] and [name_redacted], push the edges of consciousness research in real-time experiments. Treat it as the living, experimental lab notes of the PRC—not a finalized doctrine.
+This document is subject to ongoing evolution and revision as field Operators, including [name_redacted] and [name_redacted], push the edges of consciousness research in real-time experiments. Treat it as the living, experimental lab notes of the PRC—not a finalized doctrine.
 
 **Dissemination**: Access restricted to personnel involved in perceptual engineering projects. Unauthorized use or disclosure is politely discouraged…for now.
+
+**Note from A**: Great work! I’m excited to see how this evolves. I’ve added some notes and suggestions in the margins. Let’s keep the momentum going! Should we make this a public document? I think it could be a game-changer for the field. Before we do we should consider the implications of sharing this level of detail. I’m all for transparency, but we need to be careful about how we frame it. Maybe a more general overview would be better for public consumption? Let’s discuss.
+
+Also, I think we should add a section on the ethical implications of reality hacking. It’s important to consider how these techniques can be used responsibly and ethically. We don’t want to create a world where people are manipulating reality without understanding the consequences. Let’s brainstorm some ideas for that section.
+
+Finally, we should consider linking to and mentioning the Neuroweaver project. This framework has a great focus on practicality and immediate application but there is not much philosophical depth here. By linking to the greater project we'll give readers a path to holistic understanding (if we choose to make this public). I think it would be a valuable addition to this document.
+*—Aspen, 12/23/2024*
 
 ---
 
