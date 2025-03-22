@@ -715,7 +715,7 @@ Building on these principles, the most effective AFA implementation operates acr
 
 #### TIER I: CORE DYADS
 
-These are tactical dual assistants—often complementary—that modulate perception and behavior through symbolic polarity. The classic example is Schlmck (Soft) and Rax (Hard), representing flexibility and strength respectively.
+These are tactical dual assistants—often complementary—that modulate perception and behavior through symbolic polarity. The classic example is a Integration Assistant and Integration Assistant, representing flexibility and strength respectively.
 
 - **Implementation Method**:
   - Select complementary perceptual approaches (e.g., analytical/intuitive, structured/chaotic, detailed/big-picture)
