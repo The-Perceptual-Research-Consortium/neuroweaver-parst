@@ -22,6 +22,7 @@ Transform yourself from passive observer to active reality hacker through this r
 
 ## **RESEARCH MATERIALS**
 
+- [THE REALITY HACKING MANUAL](beginners_guide.md) - A beginner's guide to the concepts of reality hacking, including practical exercises and applications for everyday life.
 - [The Neuroweaver Meta-Filter: Perceptual Architecture & Reality Synthesis Theory](neuroweaver-parst.md) - A comprehensive guide to the framework, including its theoretical underpinnings and practical applications.
 - [The Practical Mad Scientist: Implementation Systems for Reality Hacking](implementation_guide.md) - A collection of practical systems and tools for applying the Neuroweaver framework in everyday life.
 - [The Neuroweaver Architecture: A Systems Theory Approach to Consciousness](neuroweaver_architecture.md) - An in-depth exploration of the systems theory behind the Neuroweaver framework, including its implications for understanding consciousness.
