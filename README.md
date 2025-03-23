@@ -56,6 +56,10 @@ The Neuroweaver framework is the result of a collaborative effort by a diverse t
 - **The Möbius Group** - Foundational Research Commission, 1974-1989
 - And many more dedicated researchers and collaborators from around the world who wish to remain anonymous due to the sensitive nature of their work.
 
+## SIDE NOTE
+
+*There might be more here than meets the eye. Neuroweaver rewards the act of digging deeper.*
+
 ---
 
 ## License
