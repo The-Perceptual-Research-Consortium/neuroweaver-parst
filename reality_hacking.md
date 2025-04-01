@@ -1,6 +1,6 @@
 # THE QUANTUM OPERATOR'S GRIMOIRE: A First-Principles Manual for Reality Hacking
 
-Developed by Phillip Clapham and Dr. Elara Quinn for The Perceptual Research Consortium, based on the foundational research of The Möbius Group (1974-1989).
+Developed by The Perceptual Research Consortium (2025), based on the foundational research of The Möbius Group (1974-1989).
 
 ---
 
@@ -13,14 +13,7 @@ This document is subject to ongoing evolution and revision as field Operators, i
 
 **Dissemination**: Access restricted to personnel involved in perceptual engineering projects. Unauthorized use or disclosure is politely discouraged…for now.
 
-**Document Classification**: Theory Integration Matrix - Version 1.1
-
-**Note from A**: Great work! I’m excited to see how this evolves. I’ve added some notes and suggestions in the margins. Let’s keep the momentum going! Should we make this a public document? I think it could be a game-changer for the field. Before we do we should consider the implications of sharing this level of detail. I’m all for transparency, but we need to be careful about how we frame it. Maybe a more general overview would be better for public consumption? Let’s discuss.
-
-Also, I think we should add a section on the ethical implications of reality hacking. It’s important to consider how these techniques can be used responsibly and ethically. We don’t want to create a world where people are manipulating reality without understanding the consequences. Let’s brainstorm some ideas for that section.
-
-Finally, we should consider linking to and mentioning the Neuroweaver project. This framework has a great focus on practicality and immediate application but there is not much philosophical depth here. By linking to the greater project we'll give readers a path to holistic understanding (if we choose to make this public). I think it would be a valuable addition to this document.
-*—Aspen, 12/23/2024*
+**Document Classification**: Theory Integration Matrix - Version 1.9b
 
 ---
 
@@ -69,7 +62,7 @@ Ultimately, the only yardstick for “correctness” here is your direct experie
 
 You are not a user. You are not a follower. You are an **Operator**—a being who intentionally mutates their perceptual architecture to invoke outcomes across symbolic, emotional, and energetic dimensions.
 
-You hold in your hands not a mere philosophical treatise or collection of techniques, but the operating manual for the most sophisticated technology ever devised: your own consciousness. This grimoire transforms you from passive experiencer to active Operator—a being who intentionally mutates their perceptual architecture to invoke outcomes across symbolic, emotional, and energetic dimensions.
+You hold in your hands not a mere philosophical treatise or collection of techniques, but the operating manual for the most sophisticated technology ever devised: your own consciousness. This guide transforms you from passive experiencer to active Operator—a being who intentionally mutates their perceptual architecture to invoke outcomes across symbolic, emotional, and energetic dimensions.
 
 As an Operator, you don't simply believe in reality hacking; you deploy it with the mischievous precision of a trickster scientist who has discovered the universe has an adjustment panel. This system emerges not from adherence to any single tradition but from the alchemical fusion of what *actually works*—distilled from the quantum mechanics of consciousness, verified through rigorous experimentation, and refined through the paradox metabolism of contradictory wisdom.
 
