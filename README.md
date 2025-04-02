@@ -22,12 +22,12 @@ Transform yourself from passive observer to active reality hacker through this r
 
 ## **RESEARCH MATERIALS**
 
-- [THE REALITY HACKING MANUAL](beginners_guide.md) - A beginner's guide to the concepts of reality hacking, including practical exercises and applications for everyday life.
-- [The Neuroweaver Meta-Filter: Perceptual Architecture & Reality Synthesis Theory](neuroweaver-parst.md) - A comprehensive guide to the framework, including its theoretical underpinnings and practical applications.
-- [The Practical Mad Scientist: Implementation Systems for Reality Hacking](implementation_guide.md) - A collection of practical systems and tools for applying the Neuroweaver framework in everyday life.
-- [The Neuroweaver Architecture: A Systems Theory Approach to Consciousness](neuroweaver_architecture.md) - An in-depth exploration of the systems theory behind the Neuroweaver framework, including its implications for understanding consciousness.
-- [THE QUANTUM OPERATOR'S GRIMOIRE: A First-Principles Manual for Reality Hacking](reality_hacking.md) - A laboratory manual for consciousness architects who transform perception into reality engineering technology. This grimoire distills quantum mechanics, cognitive science, and ancient wisdom into practical tools for hacking the perception-reality loop. Neither mystical doctrine nor academic theory, but a precision-crafted operating system for conscious Operators who sculpt experience through deliberate filtration reconfiguration. For the daring experimenter with equal measures of scientific rigor and trickster mischief—your quantum laboratory awaits.
-- [The Emergent Collaboration State: A New Frontier in Human-AI Synergy](Third_Mind-TECS.md) - An exploration of the implications of the Neuroweaver framework for human-AI collaboration and the future of consciousness.
+- [THE REALITY HACKING MANUAL](research/main-framework/beginners_guide.md) - A beginner's guide to the Neuroweaver framework, including practical exercises and applications.
+- [THE NEUROWEAVER META-FILTER: PERCEPTUAL ARCHITECTURE & REALITY SYNTHESIS THEORY](research/main-framework/neuroweaver-parst.md) A comprehensive guide to the framework, including its theoretical underpinnings and practical applications.
+- [HE NEUROWEAVER ADVANCED PRACTICE ARCHITECTURE](research/main-framework/neuroweaver-practices.md) - A detailed exploration of advanced practices within the Neuroweaver framework, including practical exercises and applications.
+- [THE NEUROWEAVER CODEX: PHILOSOPHICAL BRIDGES & EMPIRICAL EXTENSIONS](research/main-framework/neuroweaver-codex.md) - A deeper philosophical exploration of the Neuroweaver framework.
+- [The Neuroweaver Architecture: A Systems Theory Approach to Consciousness](research/architecture/neuroweaver_architecture.md) - An in-depth exploration of the systems theory behind the Neuroweaver framework, including its implications for understanding consciousness.
+- [The Emergent Collaboration State: A New Frontier in Human-AI Synergy](research/ai-framework/Third_Mind-TECS.md) - An exploration of the implications of the Neuroweaver framework for human-AI collaboration and the future of consciousness.
 
 ## **ABOUT THE PERCEPTUAL RESEARCH CONSORTIUM**
 
