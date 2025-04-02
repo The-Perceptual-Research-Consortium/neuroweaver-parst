@@ -23,7 +23,7 @@ Transform yourself from passive observer to active reality hacker through this r
 ## **RESEARCH MATERIALS**
 
 - [THE REALITY HACKING MANUAL](research/main-framework/beginners_guide.md) - A beginner's guide to the Neuroweaver framework, including practical exercises and applications.
-- [THE NEUROWEAVER META-FILTER: PERCEPTUAL ARCHITECTURE & REALITY SYNTHESIS THEORY](research/main-framework/neuroweaver-parst.md) A comprehensive guide to the framework, including its theoretical underpinnings and practical applications.
+- [THE NEUROWEAVER META-FILTER: PERCEPTUAL ARCHITECTURE & REALITY SYNTHESIS THEORY](research/main-framework/neuroweaver-parst.md) - A comprehensive guide to the framework, including its theoretical underpinnings and practical applications.
 - [HE NEUROWEAVER ADVANCED PRACTICE ARCHITECTURE](research/main-framework/neuroweaver-practices.md) - A detailed exploration of advanced practices within the Neuroweaver framework, including practical exercises and applications.
 - [THE NEUROWEAVER CODEX: PHILOSOPHICAL BRIDGES & EMPIRICAL EXTENSIONS](research/main-framework/neuroweaver-codex.md) - A deeper philosophical exploration of the Neuroweaver framework.
 - [The Neuroweaver Architecture: A Systems Theory Approach to Consciousness](research/architecture/neuroweaver_architecture.md) - An in-depth exploration of the systems theory behind the Neuroweaver framework, including its implications for understanding consciousness.
