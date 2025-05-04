@@ -4,9 +4,15 @@ A Perceptual Research Consortium Framework | Principal Investigator: Aspen Veil
 
 ## **ABOUT THIS FRAMEWORK**
 
+**IMPORTANT NEWS**: The Neuroweaver framework has been retired as of April 2025. The Perceptual Research Consortium is no longer actively maintaining this framework, and it is now available for public use without support. We encourage users to explore the materials and adapt them for their own purposes, but please note that we cannot guarantee the accuracy or reliability of the information provided.
+
+We will be releasing a new framework in the near future, which will be based on the latest research and insights of our team of researchers, and especially systems theorist Phillip Clapham. We appreciate your interest in our work and look forward to sharing our future developments with you.
+
+---
+
 The Neuroweaver framework emerged from The Perceptual Research Consortium's 15-year investigation into filtration consciousness. Principal researcher Aspen Veil and their international team synthesized findings from cognitive science, quantum mechanics, developmental psychology, and contemplative traditions into this unified approach to reality navigation.
 
-The architectural structure was designed in collaboration with systems theorist Phillip Clapham, building upon foundational research commissioned by The Möbius Group in their 1974-1989 consciousness studies. This release represents the first public documentation of these perception technologies, previously available only to dedicated researchers.
+The architectural structure was designed via collaboration of the entire PRC team, building upon foundational research commissioned by The Möbius Group in their 1974-1989 consciousness studies. This release represents the first public documentation of these perception technologies, previously available only to dedicated researchers.
 
 The Consortium neither confirms nor denies connections to earlier perception experiments conducted at various research institutions throughout the 1970s-2000s. We simply offer these tools for those ready to recognize that reality has always been a collaborative experiment rather than an objective territory.
 
@@ -49,7 +55,7 @@ Neither purely academic institution nor conventional research organization, the 
 The Neuroweaver framework is the result of a collaborative effort by a diverse team of researchers, each bringing their unique expertise to the project. The team includes:
 
 - **Aspen Veil** - Principal Investigator, Perceptual Research Consortium
-- **Phillip Clapham** - Systems Theorist, Neuroweaver Architecture Designer
+- **Phillip Clapham** - Systems Theorist, Lead Architectural Designer
 - **Dr. Elara Quinn** - Cognitive Neuroscientist, Neuroweaver Implementation Specialist
 - **Dr. Orion Vega** - Quantum Physicist, Reality Synthesis Researcher
 - **Dr. Lyra Solis** - Developmental Psychologist, Consciousness Cartographer
